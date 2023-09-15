@@ -1,4 +1,6 @@
-public class MinhaClasse {
+
+package study.leticia.basic;
+    public class MinhaClasse {
     public static void main(String[] args) {
        
 
