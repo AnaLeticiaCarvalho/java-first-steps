@@ -1,4 +1,4 @@
-package study.leticia.basic;
+package study.leticia.basic; // Aprendendo a organizar os packages
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
